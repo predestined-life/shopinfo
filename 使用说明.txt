@@ -1,0 +1,24 @@
+开发环境：
+myeclipse+jdk1.8+MySQL 5.7+tomcat 1.85
+
+使用步骤：
+1、在myeclipse中导入项目
+2、在本地创建数据库并导入数据库文件c229.sql
+3、在src/shopinfo.db中修改数据库密码
+4、新华网登陆账户及密码:
+	①管理员:
+	On_name：123456
+	On_pass：123456
+	job：管理员
+	②采购员：
+	On_name：1001
+	On_pass：1001
+	job：采购员
+	③销售员:
+	On_name：1002
+	On_pass：1002
+	job：销售员
+	④库管员:
+	On_name：1003
+	On_pass：1003
+	job：库管员
